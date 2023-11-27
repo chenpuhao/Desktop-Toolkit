@@ -14,11 +14,10 @@
     <a href="https://github.com/chenpuhao/Desktop-Toolkit"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/chenpuhao/Desktop-Toolkit">查看Demo</a>
+    <a href=https://github.com/chenpuhao/Desktop-Toolkit/releases">查看发行版</a>
     ·
     <a href="https://github.com/chenpuhao/Desktop-Toolkit/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/chenpuhao/Desktop-Toolkit/issues">提出新特性</a>
+
   </p>
 
 </p>
@@ -30,7 +29,12 @@
 
 ### TODO
 
- - [ ] 完成项目整体规划
+ - [x] 完成项目整体规划
+ - [ ] 设计Desktop Toolkit的图标
+ - [ ] 集成DesktopAide的所有功能
+ - [ ] 添加倒计时功能
+ - [ ] 优化文件搜索引擎
+ - [ ] 增加扩展功能
 
 
 
