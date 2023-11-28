@@ -19,6 +19,9 @@
     <a href="https://github.com/chenpuhao/Desktop-Toolkit/issues">报告Bug</a>
 
   </p>
+  <p>
+    <a href="README-EN.md">浏览英文文档</a>
+  </p>
 
 </p>
 
