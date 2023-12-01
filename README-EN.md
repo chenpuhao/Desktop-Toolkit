@@ -20,7 +20,7 @@
   </p>
 <p align="center">
  <a href="README.md"> Browse Chinese documentation</a>
-</p>p
+</p>
 </p>
 
  
