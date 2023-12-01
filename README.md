@@ -3,6 +3,8 @@
 <br />
 
 <p align="center">
+  注意:本项目计划于2024年7月1日开始构建
+ <br />
   <a href="https://github.com/chenpuhao/Desktop-Toolkit">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
