@@ -3,6 +3,7 @@
 
 <p align="center">
   Note: This project is scheduled to begin construction on July 1, 2024
+<br />
   <a href="https://github.com/chenpuhao/Desktop-Toolkit">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
