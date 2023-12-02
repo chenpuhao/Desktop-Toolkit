@@ -21,7 +21,9 @@
 
   </p>
 <p align="center">
- <a href="README.md"> Browse Chinese documentation</a>
+ <a href="README.md"> 中文</a>
+   ·
+英文
 </p>
 </p>
 
