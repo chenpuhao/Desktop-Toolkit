@@ -22,8 +22,8 @@
   </p>
 <p align="center">
  <a href="README.md"> 中文</a>
-   ·
-英文
+   |
+English
 </p>
 </p>
 
