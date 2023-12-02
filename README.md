@@ -22,7 +22,9 @@
 
   </p>
   <p align="center">
-    <a href="README-EN.md">浏览英文文档</a>
+中文
+|
+    <a href="README-EN.md">English</a>
   </p>
 
 </p>
